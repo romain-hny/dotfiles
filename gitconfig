@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = heranney.romain@gmail.com
+	name = Romain Heranney
